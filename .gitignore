@@ -32,7 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-firebase.js
 
 # typescript
 *.tsbuildinfo
+firebase.js
